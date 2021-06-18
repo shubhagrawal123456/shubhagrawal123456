@@ -12,7 +12,7 @@
 
 
 
-<h1 align="center"><a id="user-content--नमस्ते-namaste-im-subhampreet-mohanty---" class="anchor" aria-hidden="true" href="#-नमस्ते-namaste-im-Shubh Agrawal!---"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> नमस्ते (Namaste) 🙏, I'm Kamlesh Joshi <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></a> ! </h1>
+<h1 align="center"><a id="user-content--नमस्ते-namaste-im-subhampreet-mohanty---" class="anchor" aria-hidden="true" href="#-नमस्ते-namaste-im-Shubh Agrawal!---"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> नमस्ते (Namaste) 🙏, I'm Shubh Agrawal <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></a> ! </h1>
 
 <img src="https://github.com/shubhagrawal123456/imgbot/blob/main/life_balance.gif" alt="side Image" align="right" width="150" height="auto" />
 
@@ -26,7 +26,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/image.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/shubhagrawal123456/imgbot/blob/main/image.gif">
 </a>
 
 
@@ -97,7 +97,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
  <h2> <summary align="center">GitHub Trophies 🏆</summary></h2>
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=kamleshjoshi8102&theme=gruvbox">
-    <img src="https://github-profile-trophy.vercel.app/?username=kamleshjoshi8102&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=shubhagrawal123456&theme=gruvbox"/>
   </a>
 </p>
 <br/>
@@ -109,8 +109,8 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <p align="center">
   <a>
    <img height="180" width="160" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/left.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamleshjoshi8102&theme=dark&hide_border=true"/>
-   <img height="180" width="160" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/right.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhagrawal123456&theme=dark&hide_border=true"/>
+   <img height="180" width="160" src="https://github.com/shubhagrawal123456/imgbot/blob/main/right.png">
 </p>
 <br/>  
 
@@ -128,11 +128,11 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <br/>  
 
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=kamleshjoshi8102&count_private=true&show_icons=true&theme=radical">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=kamleshjoshi8102&count_private=true&show_icons=true&theme=radical"  />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=shubhagrawal123456&count_private=true&show_icons=true&theme=radical">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=shubhagrawal123456&count_private=true&show_icons=true&theme=radical"  />
 </a>
 
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=php&theme=radical">
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shubhagrawal123456&hide=php&theme=radical">
   <img align="right" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=php&theme=radical" height="195" width="310" />
   
 
@@ -189,9 +189,9 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 [twitter]: https://twitter.com/spyd3r17
 [instagram]: https://instagram.com/kamlesh_joshi_55
 [linkedin]: https://www.linkedin.com/in/shubh-agrawal-2892sa/
-[hackerearth]: https://www.hackerearth.com/@spyd3r
-[hackerrank]: https://www.hackerrank.com/shubhagrawal1231
-[codechef]: https://www.codechef.com/users/shubhag4139160
+[hackerearth]: https://www.hackerearth.com/@subhash163/
+[hackerrank]: https://www.hackerrank.com/shubhagrawal1231/
+[codechef]: https://www.codechef.com/users/shubhag4139160/
 
 
 <!---

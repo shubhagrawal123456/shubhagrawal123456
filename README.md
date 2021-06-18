@@ -133,7 +133,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 </a>
 
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shubhagrawal123456&hide=php&theme=radical">
-  <img align="right" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=kamleshjoshi8102&hide=php&theme=radical" height="195" width="310" />
+  <img align="right" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shubhagrrawal123456&hide=php&theme=radical" height="195" width="310" />
   
 
 </a>
@@ -184,7 +184,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 
 
-[twitter]: https://twitter.com/spyd3r17
+[twitter]: https://twitter.com/shubhagrawal/
 [instagram]: https://instagram.com/kamlesh_joshi_55
 [linkedin]: https://www.linkedin.com/in/shubh-agrawal-2892sa/
 [hackerearth]: https://www.hackerearth.com/@subhash163/

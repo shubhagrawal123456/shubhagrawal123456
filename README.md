@@ -33,7 +33,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Shubh_Agrawal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubh-agrawal-2892sa/)
 [![Gmail](https://img.shields.io/badge/-Shubh_Agrawal-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shubhagrawal123456@gmail.com)
-[![codechef](https://cp-logo.vercel.app/codechef/shubhagrawal?logo=true)](https://www.codechef.com/users/shubhag4139160/)
+[![codechef](https://cp-logo.vercel.app/codechef/shubhagrawal?logo=true)](https://www.codechef.com/users/shubhag4139160)
 [![HackerRank](https://img.shields.io/badge/-Shubh_Agrawal-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/shubhagrawal1231)
 [![Medium](https://img.shields.io/badge/-@ShubhAgrawal-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@shubhagrawal123456)
 [![Discord](https://img.shields.io/badge/-Spyd3r-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.gg/)

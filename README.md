@@ -128,7 +128,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 </a>
 
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shubhagrawal123456&hide=php&theme=radical">
-  <img align="right" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shubhagrrawal123456&hide=php&theme=radical" height="195" width="310" />
+  <img align="right" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=shubhagrawal123456&hide=php&theme=radical" height="195" width="310" />
   
 
 </a>

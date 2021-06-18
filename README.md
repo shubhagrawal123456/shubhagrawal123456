@@ -31,7 +31,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 [![codechef](https://cp-logo.vercel.app/codechef/shubhag4139160?logo=true)](https://www.codechef.com/users/shubhag4139160/)
 [![HackerRank](https://img.shields.io/badge/-Shubh_Agrawal-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/shubhagrawal1231)
 [![Medium](https://img.shields.io/badge/-@ShubhAgrawal-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@shubhagrawal123456)
-[![Discord](https://img.shields.io/badge/-Spyd3r-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.gg/)
+[![Discord](https://img.shields.io/badge/-Shubh_Agrawal-7289DA?style=flat&logo=Discord&logoColor=white)](https://discord.gg/)
 [![Stack_Overflow](https://img.shields.io/badge/-Shubh_Agrawal-orange?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/)
 
 

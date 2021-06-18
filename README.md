@@ -110,7 +110,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
   <a>
    <img height="180" width="160" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/left.png">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhagrawal123456&theme=dark&hide_border=true"/>
-   <img height="180" width="160" src="https://github.com/shubhagrawal123456/imgbot/blob/main/right.png">
+   <img height="180" width="160" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/right.png">
 </p>
 <br/>  
 
@@ -173,8 +173,6 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 [<img align="left" alt="joshi | hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />][hackerearth]
 [<img align="left" alt="joshi | hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="joshi | codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
-[<img align="left" alt="joshi | codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
-
 <br/>
 
   

@@ -91,7 +91,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
  <h2> <summary align="center">GitHub Trophies 🏆</summary></h2>
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=kamleshjoshi8102&theme=gruvbox">
+  <a href="https://github-profile-trophy.vercel.app/?username=shubhagrawal123456&theme=gruvbox">
     <img src="https://github-profile-trophy.vercel.app/?username=shubhagrawal123456&theme=gruvbox"/>
   </a>
 </p>

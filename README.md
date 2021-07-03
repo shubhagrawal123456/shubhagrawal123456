@@ -21,7 +21,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/kamleshjoshi8102/imgbot/blob/main/image.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 </a>
 
 

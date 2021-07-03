@@ -159,7 +159,10 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 
 <br/><br/>
+ 
+
 <p align="center">
+   <img  width="400px" height="400px" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
   <img  width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
 </p>
 

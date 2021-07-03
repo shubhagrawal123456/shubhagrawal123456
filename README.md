@@ -171,13 +171,27 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
 
 <br/><br/>
+<p align="center">
+  <img  width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png">
+</p>
 
+
+
+<img align="left" height="280" width="400" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
+
+
+## Coding is fun 🤩💝
+### :handshake: Always happy to help!
+
+
+<br/><br/>
+<br/><br/>
 <h2 align="center">Show ❤ by giving⭐to my Repositories</h2>
 
 
 
 [twitter]: https://twitter.com/shubhagrawal/
-[instagram]: https://instagram.com/kamlesh_joshi_55
+[instagram]: https://instagram.com/shubh5480/
 [linkedin]: https://www.linkedin.com/in/shubh-agrawal-2892sa/
 [hackerearth]: https://www.hackerearth.com/@subhash163/
 [hackerrank]: https://www.hackerrank.com/shubhagrawal1231/

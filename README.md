@@ -155,18 +155,6 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 
                                                                                                      
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!&center=true&color="FF0000")](https://github.com/shubhagrawal123456/)
-
-### Connect with me:
-
-[<img align="left" alt="joshi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="joshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="joshi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="joshi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="joshi | hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />][hackerearth]
-[<img align="left" alt="joshi | hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="joshi | codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
-<br/>
-
   
 
 
@@ -184,6 +172,16 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 ### :handshake: Always happy to help!
 
 
+### Connect with me:
+
+[<img align="left" alt="joshi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="joshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="joshi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="joshi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="joshi | hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />][hackerearth]
+[<img align="left" alt="joshi | hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="joshi | codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
+<br/>
 <br/><br/>
 <br/><br/>
 <h2 align="center">Show ❤ by giving⭐to my Repositories</h2>

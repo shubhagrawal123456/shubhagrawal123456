@@ -196,7 +196,7 @@ I'm Just a **Programmer**:man_technologist:, looking to solve **real-world probl
 [codechef]: https://www.codechef.com/users/shubhag4139160/
 
 <p align="center">
-  <img  width="250px" height="250px" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+  <img  width="400px" height="400px" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 </p>
 <!---
 shubhagrawal123456/shubhagrawal123456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

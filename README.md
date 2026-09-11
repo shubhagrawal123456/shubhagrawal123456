@@ -124,6 +124,7 @@ Streaming pipeline for high-volume payment events using Kafka and Spark Structur
 - **Microsoft Certified: Fabric Analytics Engineer Associate**
 - **Microsoft Certified: Azure AI Engineer Associate**
 - **SnowPro Core Certification** — Snowflake architecture, data loading, performance optimization, secure data sharing
+- **Databricks Certified Professional**
 
 ## 🌱 Things I'm currently working on
 
